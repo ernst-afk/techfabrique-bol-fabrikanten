@@ -1,80 +1,146 @@
-brand,fabrikant_naam,fabrikant_adres,elektronisch_adres_fabrikant
-StarTech.com,StarTech.com Ltd.,"45 Artisans Crescent, N5V 5E9 London, Ontario, Canada",sales@startech.com
-HP,HP Inc.,"1501 Page Mill Road, 94304 Palo Alto, CA, Verenigde Staten",reg@hp.com
-Epson,Epson Europe B.V.,"Hoogoorddreef 5 (Atlas Arena, Asia Building), 1101 BA Amsterdam, Nederland",productcompliance@epson.eu
-Samsung,Samsung Electronics Benelux B.V.,"Evert van de Beekstraat 310, 1118 CX Schiphol, Nederland",support@samsung.com
-Logitech,Logitech,"Catharijnesingel 47, 3511 GC Utrecht, Nederland",eu_salessupport@eu.logitech.com
-ASUS,ASUSTeK Computer Inc.,"1F., No. 15, Lide Rd., Beitou Dist., 112 Taipei City, Taiwan",LegalCompliance@asus.com
-Canon,Canon Europa N.V.,"Bovenkerkerweg 59, 1185 XB Amstelveen, Nederland",https://www.canon-europe.com/support/consumer/contact-support/
-Hewlett Packard Enterprise,Hewlett Packard Enterprise,"Stroombaan 16, 1181 VX Amstelveen, Nederland",support@hpe.com
-PanzerGlass,PanzerGlass A/S,"Delta 8, 8382 Hinnerup, Denemarken",customercareeu@panzerglass.com
-Neomounts,Neomounts B.V.,"Wateringweg 62, 2031 EJ Haarlem, Nederland",info.neomounts@globalmountsgroup.com
-TP-LINK,TP-Link Deutschland GmbH,"Niederkasseler Lohweg 175, 40547 Dusseldorf, Duitsland",info.de@tp-link.com
-OKI,OKI EUROPE,"De Riemsdijk 1, 4004 LC Tiel, Nederland",support@oki.com
-Belkin,Belkin B.V.,"Eduard van Beinumstraat 8, 1077 ZZ Amsterdam, Nederland",support@belkin.com
-Lenovo,Lenovo PC HK Limited,"23/F, Lincoln House, Taikoo Place, 979 King's Road, Quarry Bay, Hong Kong, Hong Kong",compliance@lenovo.com
-Microsoft,Microsoft Corporation,"One Microsoft Way, 98052 Redmond, WA, Verenigde Staten",eureg@microsoft.com
-Lexmark,"Lexmark International, Inc.","740 West New Circle Road, 40550 Lexington, KY, Verenigde Staten",Regulatory@lexmark.com
-Jabra,GN Audio A/S,"Lautrupbjerg 7, 2750 Ballerup, Denemarken",info@jabra.com
-ACT,ACT Connectivity B.V.,"Koolhovenstraat 1E, 3772 MT Barneveld, Nederland",https://www.act-connectivity.com/en-us/contact-us
-APC,APC,"Taurusavenue 133, 2132 LS Hoofddorp, Nederland",support@apc.com
-iiyama,iiyama international B.V,"Taurusavenue 187, 2132 LS Hoofddorp, Nederland",support.nl@iiyama.com
-DELL,Dell B.V.,"Transformatorweg 38, 1014 AK Amsterdam, Nederland",DFS_Benelux@dell.com
-MSI,MSI Computer Europe B.V.,"Churchilllaan 202, 5705 BK Helmond, Nederland",https://nl.msi.com/Business/inquiries
-Trust,Trust International B.V.,"Laan van Barcelona 600, 3317 DD Dordrecht, Nederland",https://support.trust.com/en/support/tickets/new
-Intenso,Intenso International GmbH,"Gutenbergstrasse 2, 49377 Vechta, Duitsland",office@intenso-international.de
-Kingston Technology,Kingston Technology GmbH,"Leonrodstraße 56, 80636 München, Duitsland",EU_Compliance@kingston.eu
-Logitech G,Logitech,"Catharijnesingel 47, 3511 GC Utrecht, Nederland",eu_salessupport@eu.logitech.com
-Yealink,Yealink Network Technology B.V.,"Strawinskylaan 3127, Atrium Building, 8th floor, 1077 ZX Amsterdam, Nederland",support@yealink.com
-Corsair,Corsair Memory B.V.,"Wormerweg 8, 1311 XB Almere, Nederland",support@corsair.com
-Xiaomi,"Xiaomi Communications Co., Ltd.","#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road, Haidian District, 100085 Beijing, China",eusupport.global@support.mi.com
-Dicota,DICOTA GmbH,"Fabrikstrasse 18, 73277 Owen, Duitsland",info@dct.group
-KYOCERA,KYOCERA Document Solutions Europe B.V.,"Bloemlaan 4, 2132 NP Hoofddorp, Nederland",https://www.kyoceradocumentsolutions.eu/en/about-us/contact-us.html
-Targus,Targus B.V.,"Burgemeester Stramanweg 102, 1101 AA Amsterdam, Nederland",support@targus.com
-Xerox,Xerox B.V.,"Rijnzathe 12, 3454 PV Utrecht, Nederland",support@xerox.com
-Eaton,Eaton Industries Netherlands BV,"Europalaan 210, 7559 SC Hengelo, Nederland",support@eaton.com
-Gigabyte,Giga-Byte Technology B.V.,"Steenoven 24, 5626 DK Eindhoven, Nederland",EU.grp@gigabyte.com
-Netgear,NETGEAR Netherlands B.V.,"Louis Braillelaan 80, 2719 EK Zoetermeer, Nederland",support@netgear.com
-LG,LG Electronics Deutschland GmbH,"Alfred-Herrhausen-Allee 3-5, 65760 Eschborn, Duitsland",gpsr@lge.com
-Dbramante1928,dbramante1928 ApS,"Bygmarken 2a, 3650 Olstykke, Denemarken",compliance@dbramante1928.com
-T'nB,T'nB SA France,"Parc d'Activite de la Crau, Rue Nicolas Joseph Cugnot, 13300 Salon-de-Provence, Frankrijk",info@t-nb.com
-Hikvision Digital Technology,"Hangzhou Hikvision Digital Technology Co., Ltd.","No.555 Qianmo Road, Binjiang District, 310051 Hangzhou, China",support@hikvision.com
-Zyxel,ZyXEL Communications B.V.,"Binnenweg 4, 2132 CT Hoofddorp, Nederland",support@zyxel.com
-Acer,Acer Inc.,"8F, No. 88, Section 1, Xin Tai 5th Road, Xizhi, 221 New Taipei City, Taiwan",acer-italy-srl@legalmail.it
-Synology,Synology Inc.,"9F, No. 1, Yuandong Rd., Banqiao Dist., 220056 New Taipei City, Taiwan",presse@synology.com
-Teltonika,Teltonika,"Saltoniškių g 14, 08105 Vilnius, Litouwen",support@teltonika.com
-B-Tech,B-Tech International Limited,"Bennett House, Long March, NN11 4NR Daventry (Northamptonshire), Verenigd Koninkrijk",UK@btechavmounts.com
-Garmin,Garmin Würzburg GmbH,"Leightonstraße 7, 97074 Würzburg, Duitsland",EUResponsiblePerson@garmin.com
-Omada,TP-Link Enterprises Netherlands B.V.,"Archimedesbaan 18e, 3439 ME Nieuwegein, Nederland",support.nl@tp-link.com
-Transcend,Transcend Information,"Cairostraat 40, 3047 BC Rotterdam, Nederland",support@transcend.com
-Mobilis,MOBILIS DEVELOPMENT,"Parc Altaïs - 7, rue Orion, 74650 Chavanod, Frankrijk",adv@mobiliscase.com
-Ubiquiti Networks,Ubiquiti Inc.,"685 Third Avenue, NY 10017 New York, Verenigde Staten",compliance@ui.com
-Western Digital,Western Digital Netherlands B.V.,"Mercuriusplein 1 (Frame Offices – Pharos), 2132 HA Hoofddorp, Nederland",support@westerndigital.com
-DYMO,DYMO Corporation,"Plac Andersa 7, 61-894 Poznań, Polen",support@dymo.com
-Huawei,Huawei Technologies Netherlands B.V.,"Laan van Vredenoord 56, 2289 DJ Rijswijk, Nederland",support@huawei.com
-Sony,Sony Europe B.V.,"Taurusavenue 16, 2132 LS Hoofddorp, Nederland",companyinfo.nl@eu.sony.com
-Gembird,Gembird Europe B.V.,"Wittevrouwen 56, 1358 CD Almere, Nederland",helpdesk@gembird.nl
-Imou,Imou Network Technology B.V.,"Lange Kleiweg 6, 2288 GK Rijswijk, Nederland",service.global@imou.com
-Wacom,Wacom Europe GmbH,"Speditionstr. 2, 40221 Düsseldorf, Duitsland",info@wacom.eu
-Mitel,Mitel Networks Corporation,"4000 Innovation Drive, K2K 3K1 Kanata (Ontario), Canada",legal@mitel.com
-Optoma,Optoma Benelux B.V.,"Europalaan 770 D, 1363 BM Almere, Nederland",support@optoma.com
-BakkerElkhuizen,BakkerElkhuizen,"Taalstraat 151, 5261 BC Vught, Nederland",info@bakkerelkhuizen.com
-Lexip,PIXMINDS DISTRIBUTION,"45 route d'Apremont, 73000 Barberaz, Frankrijk",store@lexip.co
-Epos,EPOS,"Industriparken 27, 2750 Ballerup, Denemarken",support@epos.com
-Honor,Honor Technologies Germany GmbH,"Toulouser Allee 27, 40211 Düsseldorf, Duitsland",info@hihonor.com
-Anker,Anker Innovations,"Prinzenallee 15, 40549 Düsseldorf, Duitsland",support@anker.com
-Oppo,OPPO Nederland,"Delftse Poort 0, 3013 AL Rotterdam, Nederland",support@oppo.com
-OnePlus,Oneplus,"Hofplein 20, 3032 AC Rotterdam, Nederland",support.nl@oneplus.com
-Nothing,Nothing Technology B.V.,"Jan Pietersz Coenstraat 7, 2595 WP 's-Gravenhage, Nederland",support@nothing.tech
-Ergotron,Ergotron,"Stationsstraat 77H, 3811 MH Amersfoort, Nederland",info.nl@ergotron.com
-Lancom Systems,Rohde & Schwarz Networks and Cybersecurity GmbH,"Adenauerstrasse 20 / B2, 52146 Wuerselen, Duitsland",info.rs-nc@rohde-schwarz.com
-Soundcore,Anker Innovations,"Prinzenallee 15, 40549 Düsseldorf, Duitsland",support@anker.com
-Fairphone,Fairphone B.V.,"Van Diemenstraat 200, 1013 CP Amsterdam, Nederland",https://support.fairphone.com/hc/en-us/requests/new
-Benq,BenQ Benelux B.V.,"Meerenakkerweg 1-17, 5652 AR Eindhoven, Nederland",support@benq.com
-Intel,Intel Benelux B.V.,"High Tech Campus 83, 5656 AE Eindhoven, Nederland",support@intel.com
-Polar,Polar Electro Oy,"Professorintie 5, 90440 Kempele, Finland",webmaster@polar.com
-Seagate,Seagate Technology B.V.,"Tupolevlaan 105, 1119 PA Schiphol-Rijk, Nederland",support@seagate.com
-NEXT UPS Systems,NEXT UPS Systems bvba,"Poverstraat 138 (Releghem Business Park), 1731 Relegem (Asse), Belgie",info@nextups.eu
-Gigaset,Gigaset Technologies GmbH,"Frankenstr. 2, 46395 Bocholt, Duitsland",https://www.gigaset.com/hq_en/csp/customer_request/
-Xtorm,CobraXL BV,"Hoofdveste 19, 3992 DH Houten, Nederland",info@xtorm.eu
-SonicWall,SonicWall GmbH,"Maximilianstr 13, 80539 München, Duitsland",centraleurope@sonicwall.com
+brand,marktdeelnemer,fabrikant_naam,fabrikant_adres,elektronisch_adres_fabrikant
+StarTech.com,,StarTech.com Ltd.,"45 Artisans Crescent, N5V 5E9 London, Ontario, Canada",sales@startech.com
+HP,HP Nederland B.V.,HP Inc.,"1501 Page Mill Road, 94304 Palo Alto, CA, Verenigde Staten",reg@hp.com
+Epson,Epson Europe B.V,Epson Europe B.V.,"Hoogoorddreef 5 (Atlas Arena, Asia Building), 1101 BA Amsterdam, Nederland",productcompliance@epson.eu
+Samsung,Samsung Electronics Benelux B.V.,Samsung Electronics Benelux B.V.,"Evert van de Beekstraat 310, 1118 CX Schiphol, Nederland",support@samsung.com
+Logitech,Logitech,Logitech,"Catharijnesingel 47, 3511 GC Utrecht, Nederland",eu_salessupport@eu.logitech.com
+ASUS,Asus Holland B.V.,ASUSTeK Computer Inc.,"1F., No. 15, Lide Rd., Beitou Dist., 112 Taipei City, Taiwan",LegalCompliance@asus.com
+Canon,Canon Nederland N.V.,Canon Europa N.V.,"Bovenkerkerweg 59, 1185 XB Amstelveen, Nederland",https://www.canon-europe.com/support/consumer/contact-support/
+Hewlett Packard Enterprise,Hewlett Packard Enterprise (HPE),Hewlett Packard Enterprise,"Stroombaan 16, 1181 VX Amstelveen, Nederland",support@hpe.com
+PanzerGlass,PanzerGlass,PanzerGlass A/S,"Delta 8, 8382 Hinnerup, Denemarken",customercareeu@panzerglass.com
+Neomounts,Neomounts B.V.,Neomounts B.V.,"Wateringweg 62, 2031 EJ Haarlem, Nederland",info.neomounts@globalmountsgroup.com
+TP-LINK,TP-Link Enterprises Netherlands B.V.,TP-Link Deutschland GmbH,"Niederkasseler Lohweg 175, 40547 Dusseldorf, Duitsland",info.de@tp-link.com
+OKI,OKI EUROPE (Benelux),OKI EUROPE,"De Riemsdijk 1, 4004 LC Tiel, Nederland",support@oki.com
+Belkin,Belkin B.V.,Belkin B.V.,"Eduard van Beinumstraat 8, 1077 ZZ Amsterdam, Nederland",support@belkin.com
+Lenovo,Lenovo BV,Lenovo PC HK Limited,"23/F, Lincoln House, Taikoo Place, 979 King's Road, Quarry Bay, Hong Kong, Hong Kong",compliance@lenovo.com
+Microsoft,Microsoft,Microsoft Corporation,"One Microsoft Way, 98052 Redmond, WA, Verenigde Staten",eureg@microsoft.com
+Lexmark,Lexmark International Netherlands BV,"Lexmark International, Inc.","740 West New Circle Road, 40550 Lexington, KY, Verenigde Staten",Regulatory@lexmark.com
+Jabra,Jabra Hoofdkantoor NL | GN Audio Benelux B.V.,GN Audio A/S,"Lautrupbjerg 7, 2750 Ballerup, Denemarken",info@jabra.com
+ACT,ACT Conenctivity B.V.,ACT Connectivity B.V.,"Koolhovenstraat 1E, 3772 MT Barneveld, Nederland",https://www.act-connectivity.com/en-us/contact-us
+APC,APC,APC,"Taurusavenue 133, 2132 LS Hoofddorp, Nederland",support@apc.com
+iiyama,iiyama international B.V,iiyama international B.V,"Taurusavenue 187, 2132 LS Hoofddorp, Nederland",support.nl@iiyama.com
+DELL,Dell B.V.,Dell B.V.,"Transformatorweg 38, 1014 AK Amsterdam, Nederland",DFS_Benelux@dell.com
+MSI,MSI Computer Europe B.V.,MSI Computer Europe B.V.,"Churchilllaan 202, 5705 BK Helmond, Nederland",https://nl.msi.com/Business/inquiries
+Trust,Trust International B.V.,Trust International B.V.,"Laan van Barcelona 600, 3317 DD Dordrecht, Nederland",https://support.trust.com/en/support/tickets/new
+Intenso,,Intenso International GmbH,"Gutenbergstrasse 2, 49377 Vechta, Duitsland",office@intenso-international.de
+Kingston Technology,Kingston Technology GmbH,Kingston Technology GmbH,"Leonrodstraße 56, 80636 München, Duitsland",EU_Compliance@kingston.eu
+Logitech G,Logitech,Logitech,"Catharijnesingel 47, 3511 GC Utrecht, Nederland",eu_salessupport@eu.logitech.com
+Yealink,Yealink,Yealink Network Technology B.V.,"Strawinskylaan 3127, Atrium Building, 8th floor, 1077 ZX Amsterdam, Nederland",support@yealink.com
+Corsair,Corsair Memory B.V.,Corsair Memory B.V.,"Wormerweg 8, 1311 XB Almere, Nederland",support@corsair.com
+Xiaomi,Xiaomi Technology Netherlands B.V,"Xiaomi Communications Co., Ltd.","#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road, Haidian District, 100085 Beijing, China",eusupport.global@support.mi.com
+Dicota,DICOTA GmbH,DICOTA GmbH,"Fabrikstrasse 18, 73277 Owen, Duitsland",info@dct.group
+KYOCERA,KYOCERA Document Solutions Nederland,KYOCERA Document Solutions Europe B.V.,"Bloemlaan 4, 2132 NP Hoofddorp, Nederland",https://www.kyoceradocumentsolutions.eu/en/about-us/contact-us.html
+Targus,Targus B.V.,Targus B.V.,"Burgemeester Stramanweg 102, 1101 AA Amsterdam, Nederland",support@targus.com
+Xerox,Xerox (Nederland) B.V.,Xerox B.V.,"Rijnzathe 12, 3454 PV Utrecht, Nederland",support@xerox.com
+Eaton,Eaton Industries Netherlands BV,Eaton Industries Netherlands BV,"Europalaan 210, 7559 SC Hengelo, Nederland",support@eaton.com
+Gigabyte,,Giga-Byte Technology B.V.,"Steenoven 24, 5626 DK Eindhoven, Nederland",EU.grp@gigabyte.com
+Netgear,NETGEAR Netherlands B.V.,NETGEAR Netherlands B.V.,"Louis Braillelaan 80, 2719 EK Zoetermeer, Nederland",support@netgear.com
+LG,LG Electronics Benelux B.V.,LG Electronics Deutschland GmbH,"Alfred-Herrhausen-Allee 3-5, 65760 Eschborn, Duitsland",gpsr@lge.com
+Dbramante1928,dbramante1928,dbramante1928 ApS,"Bygmarken 2a, 3650 Olstykke, Denemarken",compliance@dbramante1928.com
+T'nB,TNB Group B.V.,T'nB SA France,"Parc d'Activite de la Crau, Rue Nicolas Joseph Cugnot, 13300 Salon-de-Provence, Frankrijk",info@t-nb.com
+Hikvision Digital Technology,Hikvision Europe B.V.,"Hangzhou Hikvision Digital Technology Co., Ltd.","No.555 Qianmo Road, Binjiang District, 310051 Hangzhou, China",support@hikvision.com
+Zyxel,ZyXEL Communications B.V.,ZyXEL Communications B.V.,"Binnenweg 4, 2132 CT Hoofddorp, Nederland",support@zyxel.com
+Acer,Acer Computer BV,Acer Inc.,"8F, No. 88, Section 1, Xin Tai 5th Road, Xizhi, 221 New Taipei City, Taiwan",acer-italy-srl@legalmail.it
+Synology,Synology GmbH,Synology Inc.,"9F, No. 1, Yuandong Rd., Banqiao Dist., 220056 New Taipei City, Taiwan",presse@synology.com
+Teltonika,Teltonika,Teltonika,"Saltoniškių g 14, 08105 Vilnius, Litouwen",support@teltonika.com
+B-Tech,,B-Tech International Limited,"Bennett House, Long March, NN11 4NR Daventry (Northamptonshire), Verenigd Koninkrijk",UK@btechavmounts.com
+Garmin,Garmin Nederland B.V.,Garmin Würzburg GmbH,"Leightonstraße 7, 97074 Würzburg, Duitsland",EUResponsiblePerson@garmin.com
+Omada,TP-Link Enterprises Netherlands B.V.,TP-Link Enterprises Netherlands B.V.,"Archimedesbaan 18e, 3439 ME Nieuwegein, Nederland",support.nl@tp-link.com
+Transcend,Transcend Information,Transcend Information,"Cairostraat 40, 3047 BC Rotterdam, Nederland",support@transcend.com
+Mobilis,HQ of Mobilis Development & Mobilis France,MOBILIS DEVELOPMENT,"Parc Altaïs - 7, rue Orion, 74650 Chavanod, Frankrijk",adv@mobiliscase.com
+Ubiquiti Networks,Ubiquiti - Europe,Ubiquiti Inc.,"685 Third Avenue, NY 10017 New York, Verenigde Staten",compliance@ui.com
+Western Digital,Western Digital Netherlands B.V.,Western Digital Netherlands B.V.,"Mercuriusplein 1 (Frame Offices – Pharos), 2132 HA Hoofddorp, Nederland",support@westerndigital.com
+DYMO,DYMO Corporation,DYMO Corporation,"Plac Andersa 7, 61-894 Poznań, Polen",support@dymo.com
+Huawei,Huawei Technologies Netherlands B.V.,Huawei Technologies Netherlands B.V.,"Laan van Vredenoord 56, 2289 DJ Rijswijk, Nederland",support@huawei.com
+Sony,Sony Benelux,Sony Europe B.V.,"Taurusavenue 16, 2132 LS Hoofddorp, Nederland",companyinfo.nl@eu.sony.com
+Gembird,Gembird Europe B.V.,Gembird Europe B.V.,"Wittevrouwen 56, 1358 CD Almere, Nederland",helpdesk@gembird.nl
+Imou,Imou Network Technology B.V.,Imou Network Technology B.V.,"Lange Kleiweg 6, 2288 GK Rijswijk, Nederland",service.global@imou.com
+Wacom,Wacom Europe GmbH,Wacom Europe GmbH,"Speditionstr. 2, 40221 Düsseldorf, Duitsland",info@wacom.eu
+Mitel,Mitel,Mitel Networks Corporation,"4000 Innovation Drive, K2K 3K1 Kanata (Ontario), Canada",legal@mitel.com
+Optoma,Optoma Benelux B.V.,Optoma Benelux B.V.,"Europalaan 770 D, 1363 BM Almere, Nederland",support@optoma.com
+BakkerElkhuizen,BakkerElkhuizen,BakkerElkhuizen,"Taalstraat 151, 5261 BC Vught, Nederland",info@bakkerelkhuizen.com
+Lexip,Lexip,PIXMINDS DISTRIBUTION,"45 route d'Apremont, 73000 Barberaz, Frankrijk",store@lexip.co
+Epos,EPOS,EPOS,"Industriparken 27, 2750 Ballerup, Denemarken",support@epos.com
+Honor,Honor Technologies Germany GmbH,Honor Technologies Germany GmbH,"Toulouser Allee 27, 40211 Düsseldorf, Duitsland",info@hihonor.com
+Anker,Anker Innovations,Anker Innovations,"Prinzenallee 15, 40549 Düsseldorf, Duitsland",support@anker.com
+Oppo,OPPO Nederland,OPPO Nederland,"Delftse Poort 0, 3013 AL Rotterdam, Nederland",support@oppo.com
+OnePlus,Oneplus,Oneplus,"Hofplein 20, 3032 AC Rotterdam, Nederland",support.nl@oneplus.com
+Nothing,Nothing Technology B.V.,Nothing Technology B.V.,"Jan Pietersz Coenstraat 7, 2595 WP 's-Gravenhage, Nederland",support@nothing.tech
+Ergotron,Ergotron,Ergotron,"Stationsstraat 77H, 3811 MH Amersfoort, Nederland",info.nl@ergotron.com
+Lancom Systems,LANCOM Systems,Rohde & Schwarz Networks and Cybersecurity GmbH,"Adenauerstrasse 20 / B2, 52146 Wuerselen, Duitsland",info.rs-nc@rohde-schwarz.com
+Soundcore,Anker Innovations,Anker Innovations,"Prinzenallee 15, 40549 Düsseldorf, Duitsland",support@anker.com
+Fairphone,,Fairphone B.V.,"Van Diemenstraat 200, 1013 CP Amsterdam, Nederland",https://support.fairphone.com/hc/en-us/requests/new
+Benq,BenQ Benelux B.V.,BenQ Benelux B.V.,"Meerenakkerweg 1-17, 5652 AR Eindhoven, Nederland",support@benq.com
+Intel,Intel Benelux B.V.,Intel Benelux B.V.,"High Tech Campus 83, 5656 AE Eindhoven, Nederland",support@intel.com
+Polar,,Polar Electro Oy,"Professorintie 5, 90440 Kempele, Finland",webmaster@polar.com
+Seagate,Seagate Technology (Netherlands) B.V.,Seagate Technology B.V.,"Tupolevlaan 105, 1119 PA Schiphol-Rijk, Nederland",support@seagate.com
+NEXT UPS Systems,NEXT UPS Systems BV,NEXT UPS Systems bvba,"Poverstraat 138 (Releghem Business Park), 1731 Relegem (Asse), Belgie",info@nextups.eu
+Gigaset,Gigaset Technologies GmbH,Gigaset Technologies GmbH,"Frankenstr. 2, 46395 Bocholt, Duitsland",https://www.gigaset.com/hq_en/csp/customer_request/
+Xtorm,,CobraXL BV,"Hoofdveste 19, 3992 DH Houten, Nederland",info@xtorm.eu
+SonicWall,SonicWall GmbH,SonicWall GmbH,"Maximilianstr 13, 80539 München, Duitsland",centraleurope@sonicwall.com
+Apple,Apple Benelux B.V.,,,
+Brother,Brother International (Nederland) BV,,,
+Kensington,Kensington Gy B.V.,,,
+Google,"Google, Amsterdam",,,
+CLUB3D,Club 3D B.V.,,,
+Sandisk,SanDisk,,,
+Viewsonic,ViewSonic Benelux,,,
+Edifier,Edifier,,,
+Pocketbook,PocketBook International,,,
+3M,3M PL Superhub,,,
+ZENS,Zens,,,
+LaCie,LaCie,,,
+Alienware,Dell B.V.,,,
+AOC,AOC International (Europe) B.V.,,,
+Contour Design,Contour Design,,,
+POCO,Xiaomi Technology Netherlands B.V,,,
+i-tec,Itec B.V.,,,
+Sharp,Sharp Electronics Benelux B.V.,,,
+EIZO,EIZO Europe GmbH Nederland,,,
+Fractal Design,Fractal Design,,,
+Unify,Unify,,,
+Snom,Snom Technology GmbH,,,
+Doro,Doro AB,,,
+WatchGuard,WatchGuard,,,
+AMD,AMD Nederland,,,
+Aten,ATEN Infotech NV - ATEN Belgium,,,
+Asustor,ASUSTOR B.V.,,,
+D-Link,D-Link Benelux,,,
+Ricoh,Ricoh Nederland,,,
+KlikAanKlikUit,KlikAanKlikUit,,,
+Playseat,Playseat B.V.,,,
+Man & Machine,Man & Machine Europe,,,
+Razer,Razer (Europe) GmbH,,,
+AG Neovo,AG Neovo Technology B.V.,,,
+QNAP,QNAP GmbH,,,
+TCL,TCL Electronics Europe,,,
+VIVO,VIVO MOBILE COMMUNICATION IBERIA S.L.,,,
+i-PRO,I-PRO,,,
+Fujitsu,Fujitsu Nederland,,,
+HTC,HTC International,,,
+eSTAR,eSTAR,,,
+Mophie,ZAGG International,,,
+Panduit,Panduit Ecw B.V.,,,
+Ultimate Ears,Logitech,,,
+Rackmount.IT,Rackmount.IT,,,
+Archos,Archos,,,
+NEC,NEC Deutschland GmbH,,,
+Nokia,Nokia Nederland,,,
+Konix,Konix Interactive,,,
+ZAGG,ZAGG International,,,
+Vogel's,Vogel's Products B.V.,,,
+Arozzi,Arozzi Europe Ab,,,
+ASTRO Gaming,Logitech,,,
+CHERRY,Cherry Europe GmbH,,,
+Panda,Panda security,,,
+Alcatel-Lucent,Alcatel Lucent Nederland,,,
+3Dconnexion,3Dconnexion GmbH,,,
+AllThingsTalk,AllThingsTalk NV,,,
+Check Point Software Technologies,Check Point Software Technologies B V,,,
+Legrand,Legrand Nederland B.V.,,,
+Matrox,Matrox Video GmbH,,,
+RugGear,RugGear GmbH,,,
+OtterBox,OtterBox,,,
+Sennheiser,Sennheiser Nederland BV,,,
+Adobe,Adobe Systems Benelux B.V.,,,
+Eve Systems,Eve Systems GmbH,,,
